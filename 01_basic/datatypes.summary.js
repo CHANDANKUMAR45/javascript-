@@ -52,3 +52,6 @@ console.log(typeof anotherId);
 //        Arrays  =>  object
 //        Function  =>  function
 //        Object  =>  object
+
+//JavaScript is a dynamically typed language. 
+//Because data type will automatically assigned at the time of compilation or code execution.
